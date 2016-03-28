@@ -9,6 +9,8 @@ gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
 # Devise Bootstrap views with i18n support.
 gem 'devise-bootstrap-views', '~> 0.0.8'
+# Stripe is the easiest way to accept payments online. See https://stripe.com for details.
+gem 'stripe', '~> 1.38'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
